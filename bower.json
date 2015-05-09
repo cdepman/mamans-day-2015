@@ -1,0 +1,17 @@
+{
+  "name": "jourdemaman",
+  "version": "0.0.0",
+  "authors": [
+    "Charlie Depman <cdepman@gmail.com>"
+  ],
+  "description": "mother's day 2015 :)",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
